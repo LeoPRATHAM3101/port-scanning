@@ -1,0 +1,11 @@
+Starting Nmap 7.94 ( https://nmap.org )
+Nmap scan report for scanme.nmap.org
+Host is up (0.10s latency).
+
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 6.6.1p1
+80/tcp open  http    Apache httpd 2.4.7
+
+Service Info: OS: Linux
+
+Nmap done: 1 IP address (1 host up)
